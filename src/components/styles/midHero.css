@@ -1,0 +1,32 @@
+
+
+
+
+
+.bgStyles-1{
+    background-image: url(https://res.cloudinary.com/dwhfugsk0/image/upload/v1679388433/schoolweb/library_gnwnvr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+    min-width: auto;
+}
+
+
+.bgStyles-2{
+    background-image: url(https://res.cloudinary.com/dwhfugsk0/image/upload/v1679388959/schoolweb/computer_lab_qenpev.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+    min-width: auto;
+}
+
+.bgStyles-3{
+    background-image: url(https://res.cloudinary.com/dwhfugsk0/image/upload/v1679388958/schoolweb/digital_classroom_vsdmyj.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+    min-width: auto;
+}
